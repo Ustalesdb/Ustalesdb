@@ -1,4 +1,4 @@
-Hi , I'm Daniil 
+Hi, I'm Daniil 
 
 
 - I'm a Python developer expanding my expertise into C# and C++.
