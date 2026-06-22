@@ -8,5 +8,5 @@ Hi, I'm Daniil
 
 How to Reach Me
 
-- Telegram: https://t.me/Beta_02
+- Telegram: https://t.me/Uesc4pe
 - Email: hub.lolxp@gmail.com
